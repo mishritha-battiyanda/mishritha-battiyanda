@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mishritha-battiyanda
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Gatsby
+- 🌱 I’m working on React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mishritha@navadhiti.com
 
